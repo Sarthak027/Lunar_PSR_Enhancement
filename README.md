@@ -54,25 +54,6 @@ jupyter notebook`
 ### 5. Run the Project
 Open LunarCraterEnhancement.ipynb in Jupyter Notebook and follow the steps to load the dataset, preprocess the data, build, train, and evaluate the model.
 
-### 📂 Project Structure
-lunar-crater-enhancement/
-│
-├── data/
-│   ├── train/
-│   │   ├── images/
-│   │   └── annotations.csv
-│   ├── valid/
-│   │   ├── images/
-│   │   └── annotations.csv
-│
-├── notebooks/
-│   └── LunarCraterEnhancement.ipynb
-│
-├── models/
-│   └── best_model.h5
-│
-├── README.md
-└── requirements.txt
 
 - **data/**: Contains the training and validation datasets.
 - **notebooks/**: Jupyter Notebook with the complete project workflow.
